@@ -1,0 +1,19 @@
+@font-face {
+    font-family: 'Potta One';
+    src: local('Potta One'), url(../assets/fonts/PottaOne-Regular.ttf) format('truetype');
+}
+
+:root {
+    --background: linear-gradient(180deg, #3e5ca2 0%, #143685 100%);
+    --yellow: #f7cc46;
+    --red: #cd3529;
+    --blue-400: #3e5ca2;
+    --blue-800: #143685;
+}
+  
+body {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    width: 100%;
+}
